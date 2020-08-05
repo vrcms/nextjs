@@ -3,17 +3,21 @@ import Head from 'next/head'
 const Home = () => (
   <div className="container">
     <Head>
-      <title>Create Next App</title>
+      <title>大杯子网-大杯子工具箱</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
     <main>
       <h1 className="title">
-        Welcome to <a href="https://nextjs.org">Next.js!</a>
+        Welcome to <a href="https://www.dabeizi.com">Www.Dabeizi.com !</a>
       </h1>
 
       <p className="description">
-        Get started by editing <code>pages/index.js</code>
+        准备开始了... <code>pages/index.js</code>
+      </p>
+  
+      <p className="description">
+        下面方块是其他介绍... 
       </p>
 
       <div className="grid">
